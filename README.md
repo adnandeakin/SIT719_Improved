@@ -24,7 +24,6 @@ This repository provides all the scripts and datasets used in SIT719 - Security 
 --
 ### Week 9
 - [Differential privacy I](https://github.com/SIT719/2020-S2/blob/master/SIT719_Prac09_Task01_DP.ipynb)
-- [Differential privacy II](https://github.com/SIT719/2020-S2/blob/master/SIT719_Prac09_Task02_DP.ipynb)
 ### Week 10
 --
 ### Week 11
