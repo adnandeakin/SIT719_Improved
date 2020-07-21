@@ -8,7 +8,7 @@ This repository provides all the scripts and datasets used in SIT719 - Security 
 ### Week 2
 - [Programming Python using numpy, pandas](https://github.com/SIT719/2020-S2/blob/master/SIT719_Prac02_Task01_numpy_pandas_data_analytics.ipynb)
 - [NumPy's Structured Arrays](https://github.com/SIT719/2020-S2/blob/master/SIT719_Prac02_Task02_optional_StructuredDataNumPy.ipynb)
-- [Numpy Tutorial used in Class] (https://github.com/adnandeakin/2020-S2/blob/master/SIT719_Week2_Class_Numpy_tutorial_v2.ipynb)
+- [Numpy Tutorial used in Class](https://github.com/adnandeakin/2020-S2/blob/master/SIT719_Week2_Class_Numpy_tutorial_v2.ipynb)
 ### Week 3
 - [Supervised ML - Fraud & Credit Card Data detection](https://github.com/SIT719/2020-S2/blob/master/SIT719_Prac03_Task01_SupervisedML_fraudCreditCardData_detection.ipynb)
 ### Week 4
