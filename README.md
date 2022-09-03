@@ -23,6 +23,8 @@ This repository provides all the scripts and datasets used in SIT719 - Security 
 ### Week 7
 - [Poisoning Attack](https://github.com/SIT719/2020-S2/blob/master/SIT719_Prac07_Task01_Poisoning_Attack.ipynb)
 ### Week 8
+- ARX tool (https://github.com/adnandeakin/2020-S2/blob/master/workshop08%5B80%5D.pdf)
+
 --
 ### Week 9
 - [Differential privacy I](https://github.com/SIT719/2020-S2/blob/master/SIT719_Prac09_Task01_DP.ipynb)
