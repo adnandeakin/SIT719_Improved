@@ -1,5 +1,5 @@
-# 2020-S2
-This repository provides all the scripts and datasets used in SIT719 - Security And Privacy Issues In Analytics in Trimester 2, Deakin University.
+# SIT719
+This repository provides all the scripts and datasets used in SIT719 - Analytics for Security And Privacy, Deakin University.
 
 
 ## Content
